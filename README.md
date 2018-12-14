@@ -1,5 +1,3 @@
-First Year
+First Year code that I've written. 
 
-Code that I've written 2018
-
-Archival purposes 
+Archival purposes 2018
